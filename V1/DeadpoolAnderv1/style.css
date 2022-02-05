@@ -1,5 +1,5 @@
 body {
-    background-image: url(../DeadpoolAnderv1/img/fondo.jpg);
+    background-image: url(/V1/DeadpoolAnderv1/img/fondo.jpg);
     background-size: autos;
     color: white;
     background-size: autos;
@@ -99,7 +99,7 @@ h3{
 
 @font-face {
     font-family: F1;
-    src: url(../DeadpoolAnderv1/fonts/Brightness.ttf);
+    src: url(/V1/DeadpoolAnderv1/fonts/Brightness.ttf);
 }
 
 
